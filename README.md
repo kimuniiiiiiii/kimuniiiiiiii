@@ -1,7 +1,9 @@
 ### Hi there 👋
 - **Name : Yuya Kimura**
 - **Language : Japanese(Native), English(Business)**
-- August 2018 ~    : Quantitative Analyst @ Investment Company
+- January 2022 ~  : Project Academic Specialist @ The University of Tokyo
+- July 2021 ~ December 2021   : Portfolio Manager (Fund Manager) @ Investment Company
+- August 2018 ~ June 2021   : Quantitative Analyst @ Investment Company
 - April 2016 ~ July 2018    : Assistant Portfolio Manager @ Investment Company
 - April 2014 ~ March 2016 : Department of Systems Innovation, Faculty of Engineering, The University of Tokyo
 - April 2010 ~ March 2014 : The University of Tokyo
