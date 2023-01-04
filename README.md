@@ -1,12 +1,13 @@
 ### Hi there 👋
 - **Name : Yuya Kimura**
 - **Language : Japanese(Native), English(Business)**
-- January 2022 ~  : Project Academic Specialist @ The University of Tokyo
+- October 2022 ~ Now : Ph.D. Student @ Department of Technology Management for Innovation, The University of Tokyo
+- January 2022 ~ Now : Project Academic Specialist @ Department of Technology Management for Innovation, The University of Tokyo
 - July 2021 ~ December 2021   : Portfolio Manager (Fund Manager) @ Investment Company
 - August 2018 ~ June 2021   : Quantitative Analyst @ Investment Company
 - April 2016 ~ July 2018    : Assistant Portfolio Manager @ Investment Company
-- April 2014 ~ March 2016 : Department of Systems Innovation, Faculty of Engineering, The University of Tokyo
-- April 2010 ~ March 2014 : The University of Tokyo
+- April 2014 ~ March 2016 : Graduate Student @ Department of Systems Innovation, Faculty of Engineering, The University of Tokyo
+- April 2010 ~ March 2014 : Undergraduate Student @ The University of Tokyo
 
 <a href="https://github.com/kimuniiiiiiii/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kimuniiiiiiii&count_private=true&show_icons=true" />
