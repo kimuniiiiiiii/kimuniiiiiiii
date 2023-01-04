@@ -1,6 +1,9 @@
 ### Hi there 👋
-- **Name : Yuya Kimura**
-- **Language : Japanese(Native), English(Business)**
+**Name : Yuya Kimura**
+
+**Language : Japanese(Native), English(Business)**
+
+**Career**
 - October 2022 ~ Now : Ph.D. Student @ Department of Technology Management for Innovation, The University of Tokyo
 - January 2022 ~ Now : Project Academic Specialist @ Department of Technology Management for Innovation, The University of Tokyo
 - July 2021 ~ December 2021   : Portfolio Manager (Fund Manager) @ Investment Company
