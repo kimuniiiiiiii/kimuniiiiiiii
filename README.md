@@ -1,6 +1,7 @@
 ### Hi there 👋
 - **Name : Yuya Kimura**
 - **Language : Japanese(Native), English(Business)**
+- Linkedin: https://www.linkedin.com/in/yuyakimura/
 
 ### Education
 - **October 2022 ~ Now : Ph.D. Student @ Department of Technology Management for Innovation, The University of Tokyo**
