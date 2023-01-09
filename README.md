@@ -7,7 +7,7 @@
 - April 2014 ~ March 2016 : Graduate Student @ Department of Systems Innovation, Faculty of Engineering, The University of Tokyo
 - April 2010 ~ March 2014 : Undergraduate Student @ The University of Tokyo
 
-### Professional Experience
+### Professional Experience: Data Scientist, Quants Analyst, Machine Learning Engineer, etc.
 - **January 2022 ~ Now : Project Academic Specialist @ Department of Technology Management for Innovation, The University of Tokyo**
 - July 2021 ~ December 2021   : Portfolio Manager (Fund Manager) @ Investment Company
 - August 2018 ~ June 2021   : Quantitative Analyst @ Investment Company
@@ -15,9 +15,9 @@
 
 ### Qualification
 - Language, Libruary: Python(+ 5 years, 2014-), torch(3 years, 2019-), R(1 years, 2018-2019), Java(1 year, 2015-2016), Ruby(1 year, 2015-2016), Excel VBA(+ 5 years, 2016-)
-- DB ：MySQL, SQL Server, MongoDB (5 years)
+- DB ：MySQL, SQL Server, MongoDB (5 years), Google BigQuery
 - OS ：Linux(+ 5 years), Windows(+ 10 years)
-- Infrastructure：AWS:EC2, ECS, ECR, lightsail, RDS, S3, etc, Docker(+3 years)
+- Infrastructure：AWS:EC2, ECS, Fargate, ECR, lightsail, RDS, S3, etc, Docker(+3 years)
 - CI/CD: Github actions
 
 <a href="https://github.com/kimuniiiiiiii/github-readme-stats">
