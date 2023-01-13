@@ -27,6 +27,7 @@
 ![github](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat)
 ![docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat)
 ![raspberrypi](https://img.shields.io/badge/-Raspberrypi-C51A4A.svg?logo=raspberrypi&style=plastic)
+![githubactions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 
 - Language, Libruary: Python(+ 5 years, 2014-), torch(3 years, 2019-), R(1 years, 2018-2019), Java(1 year, 2015-2016), Ruby(1 year, 2015-2016), Excel VBA(+ 5 years, 2016-)
