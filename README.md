@@ -15,6 +15,20 @@
 - April 2016 ~ July 2018    : Assistant Portfolio Manager @ Investment Company
 
 ### Qualification
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-900?&logo=SQL)
+[![streamlit](https://img.shields.io/badge/-🎈%20Streamlit-910)](https://streamlit.io/)
+![flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white/)
+![django](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat)
+![linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)
+![windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)
+![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat)
+![GCP](https://img.shields.io/badge/-Google%20Cloud-EEE.svg?logo=google-cloud&style=flat)
+![github](https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat)
+![docker](https://img.shields.io/badge/-Docker-EEE.svg?logo=docker&style=flat)
+![raspberrypi](https://img.shields.io/badge/-Raspberrypi-C51A4A.svg?logo=raspberrypi&style=plastic)
+
+
 - Language, Libruary: Python(+ 5 years, 2014-), torch(3 years, 2019-), R(1 years, 2018-2019), Java(1 year, 2015-2016), Ruby(1 year, 2015-2016), Excel VBA(+ 5 years, 2016-)
 - DB ：MySQL, SQL Server, MongoDB (5 years), Google BigQuery
 - OS ：Linux(+ 5 years), Windows(+ 10 years)
